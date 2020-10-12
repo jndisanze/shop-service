@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/carts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/catalogue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_doc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/e2e-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edge-router" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/front-end" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/load-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/log-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/micro-sock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservices-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservices-demo.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msd-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/orders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/orders-aws" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/orders.NET" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/payment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/queue-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shipping" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/travis-cron_tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/user" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/worker" vcs="Git" />
+  </component>
+</project>
